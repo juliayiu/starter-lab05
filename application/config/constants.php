@@ -47,6 +47,8 @@ define('FOPEN_READ_WRITE_CREATE',				'a+b');
 define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
+define('BR', '<br/>');
+
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
